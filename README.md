@@ -10,5 +10,4 @@ Summary of stuff learned from Modern Perl book.
    use warnings;
    use autodie;
 
-2. 
 
